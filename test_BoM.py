@@ -1,2 +1,2 @@
-if True:
-    pass
+def test_BoM():
+    assert True
