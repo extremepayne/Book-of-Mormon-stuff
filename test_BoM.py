@@ -1,1 +1,2 @@
-assert True
+if True:
+    pass
